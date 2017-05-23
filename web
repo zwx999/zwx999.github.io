@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style>
+Body {
+	background-color:#ebf7ff;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	}
+#container {
+	position:relative;
+	margin:1px auto 0px auto;
+	width:880px;
+	text-align:left;
+	}
+#globallink {
+	width:880px;
+	height:210px;
+	margin:0px;
+	background-image:url(timg.jpg);
+	background-repeat:no-repeat;
+	background-color:#ebf7ff;
+	font-size:12px;
+	}
+#globallink ul {
+	list-style-type:none;
+	position:absolute;
+	display:inline;
+	width:417px;
+	left:486px;
+	top:180px;
+	padding:0px;
+	margin:0px;
+	}
+#globallink li {
+	float:left;
+	text-align:center;
+	}
+#globallink ul li#one, #globallink ul li#two, #globallink ul li#three, {
+	width:57px;
+	}
+#globallink ul li#four, #globallink ul li#five, #globallink ul li#six, {
+	width:78px;
+	}
+#globallink a:link, #globallink a:visited {
+	color:#FFFFFF;
+	text-decoration:underline;
+	}
+#globallink a:hover {
+	color:#004c84;
+	text-decoration:none;
+	}
+#parameter {
+	position:relative;
+	float:right;
+	font-size:12px ;
+	width:176px;
+	padding-right:0px;
+	margin:0px;
+	color:#FFFFFF;
+	background-color:#0084a9:
+	}
+#mainsupport {
+	float:left;
+	position:relative;
+	font-size:12px;
+	margin-top:0px;
+	margin-bottom:60px;
+	margin-right:0px;
+	}
+#footer {
+	clear:both;
+	font-size:12px;
+	text-align:center;
+	color:#226c81;
+	padding-bottom:20px;
+	margin:0px;
+	padding-top:20px;
+	background-color:#ebf7ff;
+	}
+#parameter h3 span {
+	display:none;
+	}
+#parameter h3 {
+	height:30px;
+	width:176px;
+	padding:0px;
+	margin:0px;
+	}
+1statistics h3 {
+	background:url(1statistics.jpg) no-repeat;
+	}
+#1statistics ul, #1hotblog ul, #1recent ul, #1apply ul {
+	list-style-type:none;
+	padding:10px 0px 0px 0px;
+	margin:0px;
+	}
+#1hotblog li {
+	text-align:left;
+	padding-left:14px;
+	line-height:17px;
+	background:url(arrow2.gif) no-repeat 7px 4px;
+	}
+#recommendblog {
+	width:380px;
+	height:125px;
+	background:url(recommendblog.jpg) no-repeat;
+	background-color:#c4e6ff;
+	margin-bottom:10px;
+	position:absolute;
+	padding-top:15px;
+	left:310px;
+	}
+#recommendblog ul{
+	padding-top:8px;
+	padding-left:480px;
+	margin:0px;
+	list-style-type:none;}																		
+</style>
+</head>
+
+<body>
+<div id="1hotblog">
+  <h3 class="hotblog"><span>热门博客</span></h3>
+  <ul>
+    <li>
+      <a href="#">艾萨克</a>&nbsp;&lt;
+      <a class="authorl" href="#">isaac</a>&gt;
+    </li>
+    <li>
+       <a href="#">詹尼花儿</a>&nbsp;&lt;
+      <a class="authorl" href="#">jennifer</a>&gt;
+    </li>
+    <li>
+       <a href="#">流觞</a>&nbsp;&lt;
+      <a class="authorl" href="#">shenhuanyan</a>&gt;
+    </li>  
+    <li>
+       <a href="#">CYBERSPACE</a>&nbsp;&lt;
+      <a class="authorl" href="#">cyber</a>&gt;
+    </li>  
+    <li>
+       <a href="#">无聊生活</a>&nbsp;&lt;
+      <a class="authorl" href="#">LifeSucks</a>&gt;
+    </li>  
+    <li>
+       <a href="#">楚岑洗心</a>&nbsp;&lt;
+      <a class="authorl" href="#">popla</a>&gt;
+    </li>  
+    <li>
+       <a href="#">小孩儿</a>&nbsp;&lt;
+      <a class="authorl" href="#">bazhuazhua</a>&gt;
+    </li>  
+    <li>
+       <a href="#">未名空间</a>&nbsp;&lt;
+      <a class="authorl" href="#">sheva</a>&gt;
+    </li>  
+    <li>
+       <a href="#">Dark City</a>&nbsp;&lt;
+      <a class="authorl" href="#">freax</a>&gt;
+    </li>
+    <li>
+       <a href="#">E心 E意</a>&nbsp;&lt;
+      <a class="authorl" href="#">moonbow</a>&gt;
+    </li>  
+  </ul>
+  <br>
+    <span><a href="#">更多</a><a href="#">OPML</a></span>
+</div>    
+</body>
+</html>
